@@ -1,6 +1,6 @@
 # Bubble Stacking Tutorial
 
-## Step 1: Create a New Project
+## Etape 1 : Create a New Project
 Let's begin by setting up your game environment.
 
 1. Click **New Project** in MakeCode Arcade.  
@@ -9,7 +9,7 @@ Let's begin by setting up your game environment.
 
 ---
 
-## Step 2: Create the Game Board
+## Etape 2 : Create the Game Board
 Let's set the scene by adding the "core memories" board to the game window.
 
 1. Open the **Bubble** category in the toolbox.  
